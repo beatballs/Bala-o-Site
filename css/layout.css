@@ -139,7 +139,7 @@ header #logo {
 #about .section-header .icon-wrap { 	
 	font-size: 60px;
 	margin-bottom: 18px;
-	color: #FFDD00; 
+	color: #fff; 
 }
 #about .section-header h1 {
    font: 30px/36px 'montserrat-bold', sans-serif;
@@ -153,7 +153,7 @@ header #logo {
 }
 #about h3 {
    font: 15px/24px 'montserrat-bold', sans-serif;
-   color: #0C3012;
+   color: #FFDD00;
    text-transform: uppercase;
    letter-spacing: 3px;   
    margin-bottom: 12px;
